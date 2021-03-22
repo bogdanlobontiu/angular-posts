@@ -1,0 +1,17 @@
+:host {
+  display: block;
+  margin-top: 4%;
+}
+mat-card {
+  width: 80%;
+  margin: auto;
+  background-color: #f3e6e8;
+  background-image: linear-gradient(315deg, #f3e6e8 0%, #d5d0e5 74%);
+}
+mat-form-field,
+textarea {
+  width: 100%;
+}
+button {
+  background-color: palevioletred;
+}
